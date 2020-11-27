@@ -12,6 +12,6 @@ public class Login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        Toast.makeText(this, "Good", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Good one", Toast.LENGTH_SHORT).show();
     }
 }
