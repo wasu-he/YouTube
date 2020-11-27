@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542516598278",
+    "firebase_url": "https://new2-d7ca4.firebaseio.com",
+    "project_id": "new2-d7ca4",
+    "storage_bucket": "new2-d7ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542516598278:android:5a11a10e24597462285587",
+        "android_client_info": {
+          "package_name": "com.example.newyoutube2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542516598278-n3lgro8bd7g2g8cm93dqc32l21h97ius.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9PQ4UEdiVy66CeTW5EH0bslIST6YKAV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542516598278-n3lgro8bd7g2g8cm93dqc32l21h97ius.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
